@@ -1,2 +1,3 @@
-# Todo Application sample for Scala training
-- Specification
+Specification for Scala training sample project
+===================================================
+- defines communication protocol between application and persistence
