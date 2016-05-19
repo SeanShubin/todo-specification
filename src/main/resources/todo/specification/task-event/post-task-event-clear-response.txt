@@ -2,5 +2,4 @@ HTTP/1.1 200 OK
 Content-Type: text/plain; charset=utf-8
 
 1 false Task A
-2 true Task B
 3 false Task C
