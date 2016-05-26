@@ -1,0 +1,7 @@
+/*
+ test-driven-010
+ We keep the specification separate from the application and persistence layers
+ There is no code here, the specification only knows what requests and responses look like
+ In this case, the specification is formatted according to HTTP 1.1
+ It is made available to application and persistence via the class path
+ */
