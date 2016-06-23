@@ -1,5 +1,12 @@
 # Prerequisites to scala training sample project
 
+### Make sure you can run Scala from the console
+- when you type
+    -     scala
+- you should see something that starts with
+    -     Welcome to Scala 2.11.8
+- or whatever the latest version of Scala happens to be
+
 ### Check out the sample projects
 
     mkdir training
