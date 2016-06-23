@@ -2,7 +2,7 @@
 - part of a three project sample todo application
 - defines communication protocol between application and persistence
 
-## (Prerequisites to scala training sample project)[prerequisites.md]
+## [Prerequisites to scala training sample project](prerequisites.md)
 
 ## Priorities
 - Meet Customer Need
