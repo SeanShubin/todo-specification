@@ -2,39 +2,7 @@
 - part of a three project sample todo application
 - defines communication protocol between application and persistence
 
-## Sample Projects
-
-### Check out the sample projects
-
-    mkdir training
-    cd training
-    git clone https://github.com/SeanShubin/todo-application
-    git clone https://github.com/SeanShubin/todo-persistence
-    git clone https://github.com/SeanShubin/todo-specification
-
-### Set up your environment
-- Make sure you can quickly tell if the following tests are green
-    - todo-persistence/core/src/test/scala/com/seanshubin/todo/persistence/core/JettyRunnerTest.scala
-    - todo-application/core/src/test/scala/com/seanshubin/todo/application/core/JettyRunnerTest.scala
-
-## Run the sample projects
-
-### Install specification to your local maven repository
-    cd todo-specification
-    mvn install
-
-### Package and run persistence
-    cd todo-persistence
-    mvn package
-    ./run.sh
-
-### Package and run application
-    cd todo-application
-    mvn package
-    ./run.sh
-
-### Navigate to application
-- http://localhost:7001
+## (Prerequisites to scala training sample project)[prerequisites.md]
 
 ## Priorities
 - Meet Customer Need
