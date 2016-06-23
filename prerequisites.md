@@ -37,4 +37,4 @@
     ./run.sh
 
 ### Navigate to application
-- [http://localhost:7001]
+- [http://localhost:7001](http://localhost:7001)
