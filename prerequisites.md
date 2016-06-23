@@ -24,6 +24,10 @@
     - In your todo-persistence project, run core/src/test/scala/com/seanshubin/todo/persistence/core/JettyRunnerTest
     - In your todo-application project, run core/src/test/scala/com/seanshubin/todo/application/core/JettyRunnerTest
 
+### If you are not using an Integrated Development Environment
+- The automatic import feature is most significant to this portion of the training
+- To compensate for not having this feature, you may want to keep the relevant files open in your browser pointed at github, so you don't have to go digging around for the fully qualified names for your imports
+
 ## Run the sample projects
 
 ### Package and run persistence
